@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Medical/static/css/main.2bf65fad.css",
+    "main.js": "/Medical/static/js/main.8c1adc34.js",
+    "static/media/banner1.jpg": "/Medical/static/media/banner1.4d979a5d62e8b89acdc5.jpg",
+    "static/media/banner3.jpg": "/Medical/static/media/banner3.2d640ca62942be6d39dc.jpg",
+    "static/media/banner4.jpg": "/Medical/static/media/banner4.8fa1b38c2563a7f4f4a7.jpg",
+    "static/media/banner2.jpg": "/Medical/static/media/banner2.182bfedf779d83ddf646.jpg",
+    "static/media/logo.jpeg": "/Medical/static/media/logo.d8a2f3045eefa6d053e6.jpeg",
+    "static/media/hero-banner.png": "/Medical/static/media/hero-banner.01bcfc1e8c3cffd77998.png",
+    "static/media/doctor-1.png": "/Medical/static/media/doctor-1.8e903f53460fb11f8a01.png",
+    "index.html": "/Medical/index.html",
+    "main.2bf65fad.css.map": "/Medical/static/css/main.2bf65fad.css.map",
+    "main.8c1adc34.js.map": "/Medical/static/js/main.8c1adc34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bf65fad.css",
+    "static/js/main.8c1adc34.js"
+  ]
+}
