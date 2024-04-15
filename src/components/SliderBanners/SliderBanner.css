@@ -1,0 +1,43 @@
+.advanteges {
+  background-color: #eee;
+  padding-top: 2rem;
+}
+.advanteges h2 {
+  text-align: center;
+  color: rgb(0, 0, 180);
+  font-weight: bold;
+}
+.carousel {
+  text-align: center;
+}
+.carousel .carousel-indicators button {
+  background-color: red;
+}
+.carousel .carousel-control-prev .carousel-control-prev-icon,
+.carousel .carousel-control-next .carousel-control-next-icon {
+  background-color: #000;
+  border-radius: 10px;
+  width: 35px;
+  height: 35px;
+}
+/* .carousel .carousel-control-prev,
+.carousel .carousel-control-next {
+  background-color: #999;
+  width: 5rem;
+} */
+/* advanteges media */
+@media screen and (max-width: 789px) {
+  .carousel .carousel-inner img {
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 489px) {
+  .carousel .carousel-inner img {
+    height: 200px;
+  }
+  .carousel .carousel-control-prev,
+  .carousel .carousel-control-next {
+    width: 3rem;
+  }
+}
